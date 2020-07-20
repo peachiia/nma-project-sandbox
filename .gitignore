@@ -1,3 +1,9 @@
+# VS Code setting
+.vscode/
+
+# My Dataset Folder
+dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
